@@ -1,0 +1,1 @@
+appletviewer bin/game.html

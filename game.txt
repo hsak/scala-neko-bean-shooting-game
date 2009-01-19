@@ -1,0 +1,6 @@
+-dontusemixedcaseclassnames
+-dontoptimize
+-injars      gamep.jar;'c:/Program Files/Scala/lib/scala-library.jar'(!META-INF/MANIFEST.MF,!library.properties)
+-outjars     game.jar
+-libraryjars <java.home>/lib/rt.jar
+-keep public class gameApplet
